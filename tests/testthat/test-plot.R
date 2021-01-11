@@ -29,7 +29,9 @@ test_that("wk*_plot works", {
 
   wkt_plot(as_wkt(example_wkt))
   wkb_plot(as_wkb(example_wkt))
-  wksxp_plot(as_wksxp(example_wkt))
+
+  wkt_plot(unclass(as_wkt(example_wkt)))
+  wkb_plot(unclass(as_wkb(example_wkt)))
 
   expect_true(TRUE)
 })
