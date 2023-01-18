@@ -1,7 +1,7 @@
-18c3a0c6d160f85fafb10ea20a35c1c7 *DESCRIPTION
+6af435dcdade184c3eec49fcc017bc10 *DESCRIPTION
 3af0d5f6726a14ed40722905f3202a79 *LICENSE
 77b12c0e6a726839ea3be98774feeb0e *NAMESPACE
-911bc3affbd01fe15f0c2a21604748d8 *NEWS.md
+8d66cd416b191db44ac9a2719d4af0d3 *NEWS.md
 9e6b26eae75568a77a214674fb173ea7 *R/RcppExports.R
 9b68640e9f7cb7f914f37ecd7617bc87 *R/coords-translate.R
 4e3ddc2b5b4a93f1c64dc1af6c1c4e25 *R/coords.R
@@ -51,7 +51,7 @@ e5a00323d702c9991a9b709a9038f0d3 *src/wk/geometry-formatter.hpp
 fdad029efcd896f59c0ec2d717a6e00a *src/wk/geometry-meta.hpp
 b7d7fc09f37716491ee7972b11653e01 *src/wk/geometry.hpp
 c7830a7ff278c878ef831b4988baec5d *src/wk/io-bytes.hpp
-44e3be43c582f8771644db2aeefa4adb *src/wk/io-string.hpp
+9678f9d92b6f00750e6433c085b6f73a *src/wk/io-string.hpp
 d9eb0147aa913a63756225d6470d8334 *src/wk/io.hpp
 bf5333984941bfcbdcbad1fc72518b44 *src/wk/parse-exception.hpp
 f6603a5b82b0efe0e6a784ef98adb9a4 *src/wk/rcpp-coord-reader.hpp

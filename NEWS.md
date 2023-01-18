@@ -1,3 +1,7 @@
+# wkutils 0.1.3
+
+* Added a `#include <cstdint>` to fix CRAN check error on gcc13 (#6).
+
 # wkutils 0.1.2
 
 * Vendored wk headers that are no longer being shipped with wk in
